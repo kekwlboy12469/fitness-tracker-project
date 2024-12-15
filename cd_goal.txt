@@ -1,0 +1,1 @@
+Goal: "c:\c lang\" ; if ($?) { gcc fitness.c -o fitness } ; if ($?) { .\fitness }

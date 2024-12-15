@@ -1,0 +1,1 @@
+Goal: ($?) { gcc fitness.c -o fitness } ; if ($?) { .\fitness }
