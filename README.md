@@ -19,3 +19,8 @@ This is a simple **Fitness Tracker** application built in **C**. The program all
    ```bash
    git clone https://github.com/kekwlboy12469/fitness-tracker-project.git
    cd fitness-tracker-project
+## Output 
+![image](https://github.com/user-attachments/assets/69be3d9e-1f89-40a5-a6a1-393bcd4ccfc9)
+Please ignore garbage value here 
+![image](https://github.com/user-attachments/assets/ee5c19c2-c147-492e-a165-b641e8b63717)
+
